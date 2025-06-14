@@ -43,6 +43,9 @@
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
+[![GitHub Foundations Certified](https://img.shields.io/badge/Certified-GitHub%20Foundations-blue?logo=github)](https://www.credly.com/badges/d562ed8c-23f4-4163-adaa-18d5900333bc)
+
+
 <!--
   * [Azure Fundamentals (AZ900)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/AA39FC7D78554466?sharingId=1EA4B35BD34F21E3)
   * [Azure Developer Associate (AZ204)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/B73875A6309E2A0C?sharingId=1EA4B35BD34F21E3)
@@ -50,8 +53,6 @@
   * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
 -->
-* [Github Foundation](https://www.credly.com/badges/d562ed8c-23f4-4163-adaa-18d5900333bc)
-<p>Updating, patience please!!</p>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
 <details>
