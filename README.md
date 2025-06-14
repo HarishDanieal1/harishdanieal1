@@ -53,7 +53,6 @@
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
 -->
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
-<br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
