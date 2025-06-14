@@ -1,6 +1,6 @@
 <!------------------------------------------------------I'm, Harish A------------------------------>
 <div align="center">
-  <h1>Good day, I'm <a href="https://www.linkedin.com/in/arun664/" target="_blank">Harish A</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Good day, I'm <a href="https://www.linkedin.com/in/harishdanieal1/" target="_blank">Harish A</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
   <h3>💻 Computer Science Graduate Student at UNT | :earth_asia: Denton, Texas <h3>
@@ -50,13 +50,14 @@
   * [Blockchain Specialization ](https://coursera.org/share/ad56e7fc6a410e86b73039ac42eabd81)
   * [Introduction to Git & Github ](https://coursera.org/share/f462e4d8faec4bc4c08ed73791bd5993)
 -->
+* [Github Foundation](https://www.credly.com/badges/d562ed8c-23f4-4163-adaa-18d5900333bc)
 <p>Updating, patience please!!</p>
 <!-----------------------------------------------------GitHub Stats ------------------------------------------------------>
 <br>
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Arun Kumar M's github stats](https://github-readme-stats.vercel.app/api?username=harishdanieal1&show_icons=true&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
+  [![Harihs Armugam github stats](https://github-readme-stats.vercel.app/api?username=harishdanieal1&show_icons=true&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishdanieal1&langs_count=8&layout=compact&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
 
 </details>
