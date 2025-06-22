@@ -29,9 +29,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-react-45b8d8?style=flat-square&logo=react&logoColor=white)
@@ -39,7 +37,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-007fff?style=flat-square&logo=microsoftazure&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/-Microservices-blue?logo=cloud&logoColor=white)
 
 <!-------------------------------------------------------------Licenses & Certification	---------------------------------------->
 <h2>Licenses & Certifications</h2>
