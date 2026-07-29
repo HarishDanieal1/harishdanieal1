@@ -1,6 +1,6 @@
 <!------------------------------------------------------I'm, Harish A------------------------------>
 <div align="center">
-  <h1>Hi Everyone, I'm <a href="https://www.linkedin.com/in/harishdanieal1/" target="_blank">Harish Armugam</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+  <h1>Hi Everyone, I'm <a href="https://www.linkedin.com/in/harishdanieal1/" target="_blank">Harish A</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 <div align="center">
   <h3>💻 MS in Computer Science @ UNT | Software Engineer | Seeking Full-time Roles 2026 | :earth_asia: Denton, TX</h3>
@@ -57,7 +57,7 @@
 <details>
   <summary>:zap: <b>Github Stats</b></summary>
 
-  [![Harihs Armugam github stats](https://github-readme-stats.vercel.app/api?username=harishdanieal1&show_icons=true&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
+  [![Harihs A github stats](https://github-readme-stats.vercel.app/api?username=harishdanieal1&show_icons=true&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harishdanieal1&langs_count=8&layout=compact&theme=react)](https://github.com/harishdanieal1/github-readme-stats)
 
 </details>
