@@ -46,6 +46,7 @@
 <h2>Licenses & Certifications</h2>
 
 [![GitHub Foundations Certified](https://images.credly.com/size/140x140/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/d562ed8c-23f4-4163-adaa-18d5900333bc)
+[![GitHub Certified: Agentic AI Developer](https://learn.microsoft.com/api/credentials/share/en-us/HarishDanieal/26D5737A880687CE?sharingId=1FFADCB137B69FF7)
 <!--
   * [Azure Fundamentals (AZ900)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/AA39FC7D78554466?sharingId=1EA4B35BD34F21E3)
   * [Azure Developer Associate (AZ204)](https://learn.microsoft.com/api/credentials/share/en-us/arun664/B73875A6309E2A0C?sharingId=1EA4B35BD34F21E3)
